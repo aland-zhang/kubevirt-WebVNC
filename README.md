@@ -7,7 +7,7 @@ kubernetes > 1.24
 ## Deploy
 
 ```bash
-kubectl apply -f https://github.com/wavezhang/virtVNC/raw/master/k8s/virtvnc.yaml
+kubectl apply -f https://raw.githubusercontent.com/ES-Yukun/kubevirt-WebVNC/main/webvnc.yaml
 ```
 
 ## Usage
